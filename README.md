@@ -20,7 +20,14 @@ I build design systems, interaction craft and agentic tooling, and I ship whole 
 
 ## Latest writing
 
-<!-- BLOG-POST-LIST:START -->- [Why a payment retry date can be wrong even when the timestamp is right](https://sammii.dev/blog/billing-email-timezone-trust/), 15 October 2026- [The email audience you can actually reach](https://sammii.dev/blog/consent-aware-campaign-audience-preview/), 12 October 2026- [Charts: information design about the tools we use](https://sammii.dev/blog/charts-information-design-for-design-engineers/), 22 September 2026- [A love letter to Gotham](https://sammii.dev/blog/love-letter-to-gotham/), 20 July 2026- [One dashboard for social, print-on-demand, and commerce: the Succulent stack](https://sammii.dev/blog/unified-social-and-shopify-succulent/), 15 July 2026<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->
+- [Why a payment retry date can be wrong even when the timestamp is right](https://sammii.dev/blog/billing-email-timezone-trust/), 15 October 2026
+- [The email audience you can actually reach](https://sammii.dev/blog/consent-aware-campaign-audience-preview/), 12 October 2026
+- [Charts: information design about the tools we use](https://sammii.dev/blog/charts-information-design-for-design-engineers/), 22 September 2026
+- [A love letter to Gotham](https://sammii.dev/blog/love-letter-to-gotham/), 20 July 2026
+- [One dashboard for social, print-on-demand, and commerce: the Succulent stack](https://sammii.dev/blog/unified-social-and-shopify-succulent/), 15 July 2026
+
+<!-- BLOG-POST-LIST:END -->
 
 More on [sammii.dev](https://sammii.dev/blog/).
 
