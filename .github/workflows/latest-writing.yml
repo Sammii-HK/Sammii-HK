@@ -20,7 +20,8 @@ jobs:
         with:
           feed_list: "https://sammii.dev/rss.xml"
           max_post_count: 5
-          template: "- [$title]($url), $date"
+          template: "- [$title]($url), $date$newline"
+          tag_post_pre_newline: true
           date_format: "d mmmm yyyy"
           commit_message: "Update latest writing"
           committer_username: "Sammii-HK"
