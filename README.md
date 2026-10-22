@@ -14,7 +14,7 @@ I build design systems, interaction craft and agentic tooling, and I ship whole 
 - [x] [Prism](https://prism.sammii.dev) is a component library where inputs and buttons follow the cursor, driving border colour and glow through CSS custom properties with no animation library.
 - [x] [Gamut](https://gamut.sammii.dev) is a real-time theme builder on OKLCH colour science, with WCAG contrast checking and export to CSS custom properties, Tailwind config, JSON tokens or Style Dictionary.
 - [x] [Kern](https://kern.sammii.dev) is a variable font explorer with live axis controls, side-by-side comparison and generated clamp() CSS for fluid type.
-- [x] [Saer](https://sear.app) scans a frontend codebase, infers the design system that actually exists and gives AI coding agents a read-only MCP server for it. It is in private beta.
+- [x] [Saer](https://saer.app) scans a frontend codebase, infers the design system that actually exists and gives AI coding agents a read-only MCP server for it. It is in private beta.
 - [x] [init-mcp-server](https://www.npmjs.com/package/init-mcp-server) on npm scaffolds Model Context Protocol servers. The source is [create-mcp-server](https://github.com/Sammii-HK/create-mcp-server).
 - [x] [Lunary](https://lunary.app) is an astrology app, live as a subscription product. I built and run it on my own, including support.
 
