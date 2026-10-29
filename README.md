@@ -21,11 +21,11 @@ I build design systems, interaction craft and agentic tooling, and I ship whole 
 ## Latest writing
 
 <!-- BLOG-POST-LIST:START -->
+- [Kern: exploring variable fonts and generating fluid type](https://sammii.dev/blog/fluid-type-from-a-variable-font-explorer/), 29 October 2026
 - [The light we built](https://sammii.dev/blog/the-light-we-built/), 22 October 2026
 - [When an agent returns code instead of data](https://sammii.dev/blog/when-an-agent-returns-code-instead-of-data/), 15 October 2026
 - [Why a payment retry date can be wrong even when the timestamp is right](https://sammii.dev/blog/billing-email-timezone-trust/), 15 October 2026
 - [The email audience you can actually reach](https://sammii.dev/blog/consent-aware-campaign-audience-preview/), 12 October 2026
-- [Charts: information design about the tools we use](https://sammii.dev/blog/charts-information-design-for-design-engineers/), 22 September 2026
 
 <!-- BLOG-POST-LIST:END -->
 
