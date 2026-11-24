@@ -21,11 +21,11 @@ I build design systems, interaction craft and agentic tooling, and I ship whole 
 ## Latest writing
 
 <!-- BLOG-POST-LIST:START -->
+- [Twenty-five ways to write a colour down](https://sammii.dev/blog/colour-spaces/), 24 November 2026
 - [Getting the menu out of the card](https://sammii.dev/blog/anchor/), 23 November 2026
+- [Balloons without buoyancy](https://sammii.dev/blog/balloons-without-buoyancy/), 23 November 2026
 - [Moth has possibilities, not a plot](https://sammii.dev/blog/moth-a-world-of-possibilities/), 20 November 2026
 - [The smallest model that does the actual job](https://sammii.dev/blog/moth-choosing-models-by-task/), 20 November 2026
-- [Designing the wait in an AI interface](https://sammii.dev/blog/prism-designing-the-wait/), 20 November 2026
-- [Is consciousness merely intelligence?](https://sammii.dev/blog/is-consciousness-merely-intelligence/), 19 November 2026
 
 <!-- BLOG-POST-LIST:END -->
 
