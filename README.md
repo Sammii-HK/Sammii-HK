@@ -21,11 +21,11 @@ I build design systems, interaction craft and agentic tooling, and I ship whole 
 ## Latest writing
 
 <!-- BLOG-POST-LIST:START -->
+- [A little less certain](https://sammii.dev/blog/a-little-less-certain/), 27 November 2026
 - [The search box that stops keeping up](https://sammii.dev/blog/big-o/), 26 November 2026
 - [Your codebase already has a design system](https://sammii.dev/blog/your-codebase-already-has-a-design-system/), 26 November 2026
 - [A day on another world](https://sammii.dev/blog/a-day-on-another-world/), 25 November 2026
 - [Twenty-five ways to write a colour down](https://sammii.dev/blog/colour-spaces/), 24 November 2026
-- [Getting the menu out of the card](https://sammii.dev/blog/anchor/), 23 November 2026
 
 <!-- BLOG-POST-LIST:END -->
 
